@@ -12,7 +12,7 @@ Don't expect others to do your work or help you with your work forever.
 within the project. 
 
 4. Authority or position in the project will be proportional
-to the acrued contribution. Seniority must be earned.
+to the accrued contribution. Seniority must be earned.
 
 5. Software is evolutive: the better implementations must supersede lesser
 implementations. Technical advantage is the primary evaluation metric.
@@ -32,7 +32,7 @@ to the project.
 9. Discuss or debate the idea, not the person.
 
 10. There is no room for ambiguity: Ambiguity will be met with questioning;
-further ambiguity will be met with silence. It is the reposibility
+further ambiguity will be met with silence. It is the responsibility
 of the originator to provide requested context.
 
 11. If something is illegal outside the scope of the project, it is illegal
@@ -46,7 +46,7 @@ activities outside of it.
 
 14. No objectives beyond the stated objectives of this project are relevant
 to the project. Any intent to deviate the project from its original purpose
-of existance will constitute grounds for remediratory action which may include
+of existence will constitute grounds for remedial action which may include
 expulsion from the project.
 
 This document is adapted from the Code of Merit (http://code-of-merit.org),
