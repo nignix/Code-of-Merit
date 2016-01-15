@@ -9,3 +9,9 @@ based on the pursuit of technical merit.
 feature, idea, or a bug.
 - Fork the repository to start making your changes.
 - Send a pull request.
+
+## Derivative work
+If you create a derivative work, please add the following notice at the footer.
+
+> This document is adapted from the Code of Merit (http://code-of-merit.org),
+version 1.0.
