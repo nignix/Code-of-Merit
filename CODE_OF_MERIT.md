@@ -42,7 +42,7 @@ governing law.
 12. This Code of Merit governs the technical procedures of the project not the 
 activities outside of it. 
 
-13. Participation on the project equates to agreement of this Code or Merit.
+13. Participation on the project equates to agreement of this Code of Merit.
 
 14. No objectives beyond the stated objectives of this project are relevant
 to the project. Any intent to deviate the project from its original purpose
