@@ -1,6 +1,6 @@
-# Code of Merit
+# Code (2d) of Merit
 
-A meritocratic approach to project management and discussions. This document
+Another meritocratic approach to project management and discussions. This document
 outlines guidelines geared towards increasing the technical value of a project
 based on the pursuit of technical merit.
 
@@ -12,6 +12,8 @@ feature, idea, or a bug.
 
 ## Derivative work
 If you create a derivative work, please add the following notice at the footer.
+
+> This document is adapted from the Code (2d) of Merit
 
 > This document is adapted from the Code of Merit (http://code-of-merit.org),
 version 1.0.
